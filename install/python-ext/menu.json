@@ -1,0 +1,5 @@
+{
+	"items": [
+		{"name": "Open Python REPL", "priority": 1, "action": "run.sh"}
+	]
+}
